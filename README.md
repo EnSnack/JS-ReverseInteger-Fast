@@ -16,3 +16,7 @@ And here is an image of the same execution from August 9th, 2021 but taken today
 And finally here is an image of the same code but done today.
 
 ![October 9th, 2022](https://i.imgur.com/boydZ2b.png)
+
+* Part of this task included a personal challenge to myself of trying to make less readable, but more functional code, I do not normally code like this.
+
+** Please attempt the challenge yourself before you use the solution.
